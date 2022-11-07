@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "awilix": "^8.0.0",
+    "awilix-koa": "^9.0.0",
+    "koa": "^2.13.4"
+  },
+  "devDependencies": {
+    "@types/co": "^4.6.3",
+    "@types/koa": "^2.13.5",
+    "@types/node": "^18.11.9",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.8.4"
+  },
+  "name": "y",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only --ignore-watch node_modules app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutefcc/fcc-ts-awilix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cutefcc/fcc-ts-awilix/issues"
+  },
+  "homepage": "https://github.com/cutefcc/fcc-ts-awilix#readme",
+  "description": ""
+}

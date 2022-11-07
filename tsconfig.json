@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "experimentalDecorators": true,
+    "esModuleInterop": true
+  },
+  "includes": ["**/ts", "**/*.d.ts"]
+}
